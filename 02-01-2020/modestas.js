@@ -1,3 +1,7 @@
+/* 7 kyu
+Dave's gamble.
+*/
+
 const horses = (num) => {
     if(Number.isInteger(num)) {
         if(num > 2) {    
@@ -7,5 +11,3 @@ const horses = (num) => {
         }
     return;        
 }
-
-console.log(horses(5));
