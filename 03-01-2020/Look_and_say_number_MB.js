@@ -57,4 +57,4 @@ function lookAndSay(data,len){
     return finalList;
 }
 
-console.log(lookAndSay('124455', 5));
+// console.log(lookAndSay('124455', 5));
