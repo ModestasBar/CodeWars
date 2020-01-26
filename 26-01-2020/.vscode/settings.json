@@ -1,0 +1,13 @@
+{
+    "editor.cursorBlinking": "phase",
+    "editor.cursorStyle": "block",
+    "editor.formatOnPaste": true,
+    "editor.minimap.enabled": false,
+    "editor.autoClosingOvertype": "always",
+    "editor.autoClosingBrackets": "always",
+    "editor.autoClosingQuotes": "always",
+    "editor.defaultFormatter": "vscode.configuration-editing",
+    "workbench.iconTheme": "eq-material-theme-icons",
+    "workbench.sideBar.location": "right",
+    "workbench.colorTheme": "Winter is Coming (Dark Blue)"
+}
